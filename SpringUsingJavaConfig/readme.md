@@ -1,3 +1,4 @@
+This repo describes about springboot project configured in java and xml based.
 # Spring IoC and Dependency Injection (DI)
 
 ## Why IoC?
