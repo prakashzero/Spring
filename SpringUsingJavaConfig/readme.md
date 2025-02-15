@@ -8,7 +8,7 @@ In traditional Java development, we create objects using the `new` keyword. This
 - **Inversion of Control (IoC)** refers to transferring the responsibility of object creation, management, and destruction from the developer to the IoC container in Spring.
 - The container takes control over the lifecycle of objects, hence the term "Inversion of Control."
 - **Dependency Injection (DI)** allows objects to receive their dependencies where they are required.
-  Here’s a detailed explanation and example of **Dependency Injection** using the provided files.
+  Here’s a detailed explanation and example of **Dependency Injection** 
 
 ### What is Dependency Injection (DI)?
 
